@@ -1,0 +1,33 @@
+    1  git config --global user.name "YasminS"
+    2  git config --global user.name
+    3  pwd
+    4  ls
+    5  cd FinTech-Workspace
+    6  cd 'Fintech Bootcamp 22'
+    7  git clone git@github.com:Yasmin-sh/Test_Repo.git
+    8  git status
+    9  la
+   10  la
+   11  ls
+   12  cd Test_Repo
+   13  git status
+   14  git add
+   15  git add README
+   16  git add README.md
+   17  git add README.md
+   18  git status
+   19  cd ..
+   20  ls
+   21  cd 'Module 2'
+   22  ls
+   23  cd 'Challenge 2'
+   24  ls
+   25  ls
+   26  cd loan_qualifier_app
+   27  ls
+   28  cd qualifier
+   29  ls
+   30  cd ..
+   31  python app.py
+   32  python app.py
+   33  history 50 > terminal_history.txt
