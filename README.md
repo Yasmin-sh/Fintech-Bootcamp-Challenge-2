@@ -21,7 +21,7 @@ pip install questionary
 ## Usage
 
 Users can use this app through thier termina. For example, users can go to their Git Bash and do the following:
-![screenshot of app.py usage in terminal]/c/Users/yasmi/challenge2pic.png)
+![screenshot of app.py usage in terminal](/c/Users/yasmi/challenge2screenshot.png)
 ---
 
 ## Contributors
@@ -34,4 +34,4 @@ Questions? Contact through linkedin:
 
 ## License
 
-UC Berkeley Fintech Bootcamp
+UC Berkeley Fintech Bootcamp.
